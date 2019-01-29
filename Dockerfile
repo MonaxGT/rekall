@@ -28,5 +28,3 @@ WORKDIR /data
 ENV PATH /sbin:$PATH
 
 ENTRYPOINT ["rekall"]
-
-
